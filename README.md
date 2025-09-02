@@ -10,6 +10,7 @@ cookieMOD is a utility for inspecting and updating phpBB's cookie and server con
 2. 	Access via: https://yourdomain.com/cookieMOD/cookie.php<br>
 3. 	Must be logged in as an admin with 'a_board' permission<br>
 4. 	Submit changes via the form to update phpbb_config values directly<br>
+5.  After running cookie.php delete the entire cookieMOD folder from your forum root<br>
 🛡️ Compatibility<br>
 • 	Fully compliant with phpBB 3.3.x<br>
 • 	No use of deprecated globals -  ($_SERVER, $_POST, etc.)<br>
